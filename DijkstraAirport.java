@@ -188,7 +188,7 @@ public class DijkstraAirport extends JFrame {
         Airport DEL = new Airport("DELHI", new Point(50, 50), "airport.png");
         Airport BOM = new Airport("BOMBAY", new Point(200, 100), "airport.png");
         Airport BLR = new Airport("BANGALORE", new Point(100, 200), "airport.png");
-        Airport HYD = new Airport("MADURAI", new Point(300, 300), "airport.png");
+        Airport HYD = new Airport("COIMBATORE", new Point(300, 300), "airport.png");
         Airport MAA = new Airport("CHENNAI", new Point(400, 200), "airport.png");
         DEL.addFlight(BOM, 1100);
         DEL.addFlight(BLR, 1400);
